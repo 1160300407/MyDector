@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.metanome:algorithm_integration:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/metanome/algorithm_integration/1.1-SNAPSHOT/algorithm_integration-1.1-20170707.092713-71.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/metanome/algorithm_integration/1.1-SNAPSHOT/algorithm_integration-1.1-20170707.092713-71-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/metanome/algorithm_integration/1.1-SNAPSHOT/algorithm_integration-1.1-20170707.092713-71-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
