@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5b8ab42-7e72-43bb-9145-b2aa9874691c" name="Default Changelist" comment="" />
+    <list default="true" id="d5b8ab42-7e72-43bb-9145-b2aa9874691c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +33,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1hJIoLmH1pBLvN0cRqd5b8VFJTN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -79,9 +85,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="310" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600171713136" />
-    <state x="810" y="159" key="com.intellij.ide.util.TipDialog" timestamp="1600135580466">
+    <state x="810" y="159" key="com.intellij.ide.util.TipDialog" timestamp="1601519352447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="810" y="159" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600135580466" />
+    <state x="810" y="159" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601519352447" />
   </component>
 </project>
